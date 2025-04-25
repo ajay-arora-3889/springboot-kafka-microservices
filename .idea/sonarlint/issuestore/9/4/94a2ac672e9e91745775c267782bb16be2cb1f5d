@@ -1,0 +1,9 @@
+
+½
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğÑÖÜJ$228f6fbd-a3b4-4470-9332-9afe3eaf75ef
+s
+java:S1948"+Make "eventData" transient or serializable.(¨‡Œûÿÿÿÿ8Æ¨‘äæ2J$84ce912d-a010-4bdd-b705-900cb86fc404
+q
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8Ÿ·’äæ2J$aa93a8f0-85ca-4152-8a44-1c4daa68a4bf
+•
+java:S1128	"MRemove this unused import 'org.apache.kafka.common.protocol.types.Field.Str'.(ÏÿêÓÿÿÿÿÿ8Ÿ·’äæ2J$aae277dc-0399-42f9-9a08-269c54459320
