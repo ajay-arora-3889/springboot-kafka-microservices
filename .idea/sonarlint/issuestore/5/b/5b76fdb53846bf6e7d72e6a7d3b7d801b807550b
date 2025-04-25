@@ -1,13 +1,0 @@
-
-Š
-java:S6813"BRemove this field injection and use constructor injection instead.(ÓÇ¢Œÿÿÿÿÿ8ÌíÇõæ2J$a7fc16c9-c753-4c05-92a9-9321e342e8d2
-Š
-java:S6813"BRemove this field injection and use constructor injection instead.(î…µÃüÿÿÿÿ8ÍíÇõæ2J$e6b4e045-141f-44eb-96b5-fa0c0fa89c56
-Š
-java:S6813"BRemove this field injection and use constructor injection instead.(‡ØøÓşÿÿÿÿ8ÍíÇõæ2J$6413a6ce-96ad-4f90-863d-6647e5232bf4
-—
-java:S1128"ORemove this unused import 'com.fasterxml.jackson.core.JsonProcessingException'.(ßÔïÇûÿÿÿÿ8ÖíÇõæ2J$1f34bbd8-3706-408a-a77e-9296ba2f667f
-v
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÖíÇõæ2J$15ffd8de-2f0d-411f-a7c9-dbe43dc2d955
-•
-java:S1128	"MRemove this unused import 'org.apache.kafka.common.protocol.types.Field.Str'.(ÏÿêÓÿÿÿÿÿ8×íÇõæ2J$28b580b9-fe41-4b4c-9f18-b05d274ffb6e
